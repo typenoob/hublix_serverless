@@ -1,0 +1,9 @@
+{
+  "serviceName": "web-framework-ao2f",
+  "functionNames": [
+    "web-framework-ao2f/egg"
+  ],
+  "domains": [
+    "egg.web-framework-ao2f.1627164863551065.cn-hangzhou.fc.devsapp.net"
+  ]
+}

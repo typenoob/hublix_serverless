@@ -1,0 +1,40 @@
+{
+  "statefulConfig": {
+    "serviceName": "web-framework-ao2f",
+    "description": "Serverless Devs Web Framework Service",
+    "role": "",
+    "logConfig": {
+      "project": "",
+      "logstore": "",
+      "enableRequestMetrics": false,
+      "enableInstanceMetrics": false,
+      "logBeginRule": "None"
+    },
+    "serviceId": "e13c5211-454e-452d-89ef-87ff56d99b7f",
+    "createdTime": "2023-05-21T10:05:31Z",
+    "lastModifiedTime": "2023-05-21T10:44:25Z",
+    "vpcConfig": {
+      "vpcId": "",
+      "vSwitchIds": [],
+      "securityGroupId": "",
+      "role": null,
+      "anytunnelViaENI": null
+    },
+    "internetAccess": true,
+    "nasConfig": {
+      "userId": -1,
+      "groupId": -1,
+      "mountPoints": []
+    },
+    "ossMountConfig": {
+      "mountPoints": []
+    },
+    "vendorConfig": null,
+    "tracingConfig": {
+      "type": null,
+      "params": null,
+      "jaegerConfig": null
+    },
+    "name": "web-framework-ao2f"
+  }
+}

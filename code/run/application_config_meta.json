@@ -1,0 +1,325 @@
+{
+  "keys": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+  "middleware": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+  "jwt": {
+    "secret": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+    "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-jwt\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+      "type": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "supportedRequests": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "maxAge": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+    "allowMethods": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js"
+  },
+  "mysql": {
+    "client": {
+      "host": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+      "port": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+      "user": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+      "password": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+      "database": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js"
+    },
+    "app": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+    "agent": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+    "default": {
+      "database": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-mysql\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "C:\\Users\\85068\\repository\\start-egg\\code\\config\\config.default.js",
+    "autoFields": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-watcher\\config\\config.default.js",
+    "eventSources": {
+      "default": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-static\\config\\config.prod.js",
+    "maxFiles": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-static\\config\\config.default.js",
+    "maxAge": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-static\\config\\config.prod.js"
+  },
+  "view": {
+    "root": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultExtension": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "private": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "axios": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "dotenv": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "egg-jwt": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "egg-router-plus": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "jsonwebtoken": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "moment": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "nodemailer": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "querystring": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "uuid": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "egg": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "dev": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "debug": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "test": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "cov": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "lint": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "ci": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "type": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "url": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "cacheControl": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "allowDebugAtProd": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "enablePerformanceTimer": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "C:\\Users\\85068\\repository\\start-egg\\code\\node_modules\\egg\\config\\config.default.js"
+}

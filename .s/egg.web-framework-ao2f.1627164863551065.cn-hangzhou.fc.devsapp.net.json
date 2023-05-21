@@ -1,0 +1,39 @@
+{
+  "domainName": "egg.web-framework-ao2f.1627164863551065.cn-hangzhou.fc.devsapp.net",
+  "accountId": "1627164863551065",
+  "protocol": "HTTP",
+  "certConfig": {
+    "certName": null,
+    "privateKey": null,
+    "certificate": null
+  },
+  "tlsConfig": {
+    "minVersion": null,
+    "maxVersion": null,
+    "cipherSuites": null
+  },
+  "apiVersion": "2016-08-15",
+  "routeConfig": {
+    "routes": [
+      {
+        "path": "/*",
+        "accountId": null,
+        "serviceName": "web-framework-ao2f",
+        "functionName": "egg",
+        "qualifier": null,
+        "methods": [
+          "GET"
+        ],
+        "rewriteConfig": null,
+        "innerRewriteConfig": null
+      }
+    ]
+  },
+  "createdTime": "2023-05-21T10:05:59Z",
+  "lastModifiedTime": "2023-05-21T10:44:27Z",
+  "keepFullPath": null,
+  "subdomainCount": null,
+  "wafConfig": {
+    "enableWAF": false
+  }
+}
